@@ -1,1 +1,1 @@
-# human-decoder
+# Human Decoder: Exploring personality traits.
